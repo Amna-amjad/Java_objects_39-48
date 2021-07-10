@@ -219,7 +219,7 @@
 
 //        Chapter 43-48
 
-
+// All questions are one in index.html file....
 
 
 
@@ -230,42 +230,5 @@
 
     
     
-    
-    
-    // chapter 43-48, task 3
-    // function delete_row(no)
-    // {
-    //  document.getElementById("row"+no+"").outerHTML="";
-    // }
-    
-    
-    
-    
-    
-    // chapter 43-48, task 4
-    // function changeImage() {
-    //         var cartoonImg = document.getElementById('img')
-    //         cartoonImg.src = 'images/tom&jerry1.webp'
-    //     }
-    
-    //     function changeImageBefore() {
-    //             var cartoonImg = document.getElementById('img')
-    //             cartoonImg.src = 'images/tom&jerry.jpg'
-    //         }
-    
-    
-    
-    
-    
-    // chapter 43-48, task 5
-    // var clicks = 0;
-    //     function increase() {
-    //         clicks += 1;
-    //         document.getElementById("clicks").innerHTML = clicks;
-    //     }
-    //     function decrease(){
-    //         clicks  -=1;
-    //         document.getElementById("clicks").innerHTML=clicks;
-    //     }
     
     
